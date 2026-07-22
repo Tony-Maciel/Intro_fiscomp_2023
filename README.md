@@ -1,9 +1,16 @@
 Este repositório contém os projetos e meus relatórios da disciplina introdução a física computacional que fiz em 2023 na USP de São Carlos durante minha graduação.
-(Tenha em mente que eu estava no meu 4 semestre de graduação. Aprendi a programar no final de 2022. Ou seja, provavelmente tem vários erros nos relatórios.)
+(Tenha em mente que eu aprendi a programar no final de 2022, ou seja, provavelmente tem alguns erros nos relatórios e práticas questionáveis de programação.)
 
 Os projetos são os arquivos chamados p1.pdf , p2.pdf ... Os meus relatórios são os arquivos chamados relatorio-1.pdf, relatorio-2.pdf ... 
 
-Os projetos foram criados pelo professor José Abel Hoyos Neto (https://www.ifsc.usp.br/~hoyos/). Incluí-los aqui por completeza (com permissão).
+Os temas dos projetos são: 
+  - Problemas de introdução a FORTRAN 
+  - Andarilhos aleatórios
+  - Métodos integro-diferenciais
+  - Equações diferenciais
+  - Leis de Kepler
+
+Os projetos foram criados pelo professor José Abel Hoyos Neto (https://www.ifsc.usp.br/~hoyos/). Incluí-los aqui por completeza.
 
 Infelizmente, por falta de organização, não consegui recuperar os códigos fontes originais. Porém, dentro de cada relatório, inclui vários prints dos programas, então 
 podem ser reprodizidos com um pouco de trabalho.
